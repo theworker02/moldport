@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/moldport",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mold numeric port values, ranges, and human-readable units.",
+  "bin": {
+    "moldport": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/moldport.git"
+  },
+  "homepage": "https://theworker02.github.io/moldport/",
+  "keywords": [
+    "mold",
+    "port",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
